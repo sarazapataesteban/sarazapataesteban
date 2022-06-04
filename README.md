@@ -1,7 +1,7 @@
-### Welcome to my GitHub Page 👋
+<h1 align="center"> Welcome to my GitHub Page 👋
 
 <h1 align="center">I'm Sara</h1>
-<h3 align="center">I am passionated about working in digital proyects, marketing and E-commerce trends.</h3>
+<h3 align="center">I am passionated about working in digital proyects and following marketing and E-commerce trends.</h3>
 
 - 🌱 I’m currently learning French and coding on Github.
 - 🔭 I’m currently working on creating my own website and portfolio.
