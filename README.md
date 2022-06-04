@@ -22,7 +22,7 @@ Find me around the web 🌎:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarazapataesteban/" target="blank"> alt="https://www.linkedin.com/in/sarazapataesteban/" height="30" width="40" /></a>
+<h4 align"left">on LinkedIn <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarazapataesteban/" target="blank"> alt="https://www.linkedin.com/in/sarazapataesteban/" height="30" width="40" /></a>
 </p>
 
 <!--
