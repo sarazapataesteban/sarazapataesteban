@@ -10,7 +10,7 @@
 
 <h3 align="left">🌎 Connect with me through:</h3>
 <p align="left">
-<h4 align"left"><a href="https://linkedin.com/in/https://www.linke.in.com/in/sarazapataesteban/">My LinkedIn profile</a></p>
+<h4 align"left"><a href="https://linkedin.com/in/sarazapataesteban/">My LinkedIn profile</a></p>
 
 <!--
 **sarazapataesteban/sarazapataesteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
