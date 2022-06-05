@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my <img src="https://img.icons8.com/bubbles/100/undefined/github.png"/> page. </h1>
+<h1 align="center"> Welcome to my <img align="center" src="https://img.icons8.com/bubbles/100/undefined/github.png"/> page. </h1>
  
   
 <h3 align="center">I am Sara. I am passionated about working in digital proyects and following Marketing and E-commerce trends.</h3>
