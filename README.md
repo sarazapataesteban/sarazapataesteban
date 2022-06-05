@@ -5,11 +5,11 @@
 <h4 align="center"> I am passionated about working in digital proyects and following Marketing and E-commerce trends.</h3>
 
 - 😄 Pronouns: She, her, hers.
-- 🌱 I’m currently learning French, playing Paddel and coding on Github.
+- 🌱 I’m currently learning French, Paddel and coding on Github.
 - 🔭 Im my spare time, I’m currently working on creating my own website and portfolio.
-- 🍔 Fun fact: One of my favorites are pizza and ice-cream. I enjoy going for a free run!  
+- 🍔 Fun fact: One of my favorites are pizza and ice-cream!  
 - 🌎 My latest trip: Cuba and New York. 
-- ⭐️ Hobbies: Photography.
+- ⭐️ Hobbies: Going for a run with Ada , photography, sports and collaborating with animal shelters.
 
 
 <h3 align="left">Connect with me:</h3>
