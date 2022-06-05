@@ -1,11 +1,7 @@
-<h1 align="center"> Welcome to my GitHub Page 
+<h1 align="center"> Welcome to my <img src="https://img.icons8.com/bubbles/100/undefined/github.png"/> page. </h1>
+ 
   
-![]([https://s3.amazonaws.com/neverbounce-hosted/images/blog/whale.gif)
-![whale](https://user-images.githubusercontent.com/106311799/172061156-f136f291-8a8b-4f5a-852c-80cdae30369e.gif)
-
-<h1 align="center">I'm Sara</h1>
-  
-<h3 align="center">I am passionated about working in digital proyects and following Marketing and E-commerce trends.</h3>
+<h3 align="center">I am Sara. I am passionated about working in digital proyects and following Marketing and E-commerce trends.</h3>
 
 - 😄 Pronouns: She, her, hers.
 - 🌱 I’m currently learning French, playing Paddel and coding on Github.
