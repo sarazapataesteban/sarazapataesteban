@@ -1,6 +1,7 @@
 <h1 align="center"> Welcome to my GitHub Page 
   
-
+![]([https://s3.amazonaws.com/neverbounce-hosted/images/blog/whale.gif)
+![whale](https://user-images.githubusercontent.com/106311799/172061156-f136f291-8a8b-4f5a-852c-80cdae30369e.gif)
 
 <h1 align="center">I'm Sara</h1>
   
