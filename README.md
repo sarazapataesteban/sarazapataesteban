@@ -1,7 +1,8 @@
 <h1 align="center"> Welcome to my <img align="center" src="https://img.icons8.com/bubbles/100/undefined/github.png"/> page. </h1>
  
   
-<h3 align="center">I am Sara. I am passionated about working in digital proyects and following Marketing and E-commerce trends.</h3>
+<h3 align="center"> Hi, I am Sara! 
+<h4 align="center"> I am passionated about working in digital proyects and following Marketing and E-commerce trends.</h3>
 
 - 😄 Pronouns: She, her, hers.
 - 🌱 I’m currently learning French, playing Paddel and coding on Github.
