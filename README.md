@@ -11,9 +11,9 @@
 - ⭐️ Hobbies: Photography.
 
 
-<h3 align="left">Connect with me through:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<h4 align"left"><a href="https://linkedin.com/in/sarazapataesteban/">My LinkedIn profile</a></p>
-
+<h4 align"left"><a href="https://linkedin.com/in/sarazapataesteban/">My LinkedIn profile <img width="50" height="50" align="left" src="https://user-images.githubusercontent.com/106311799/172061716-78766337-9b26-408d-9a72-cd52f9182e22.gif"/></a></p>
+<!--![icons8-linkedin]
 <!--
 **sarazapataesteban/sarazapataesteban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
