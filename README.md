@@ -12,25 +12,20 @@
 - ⭐️&nbsp; Hobbies: Going for a run with Ada , photography, sports and collaborating with animal shelters.
 
 <details>
-<summary><b>:book: Latest books I have read and what I learnt from them</b></summary>
+
+<b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary> 
+ 
+ 
+ <summary><b>:book: Latest books I have read and what I learnt from them</b></summary>
   
 <!-- favorites_books starts -->
-<br>What I know for sure - <Ophra Winfrey
-<br>Think like a monk - Jay Shetty
+ <br>📕&nbsp;<a href="https://g.co/kgs/gMXdT7"> What I know for sure - <b>Oprah Winfrey</b>
+<br>📕&nbsp;<a href="https://g.co/kgs/mgZhFp"> Think like a monk - <b>Jay Shetty</b>
 <!-- favorites_books ends -->
 </details>
 <details>
  
-<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
- 
-<summary>:book: Topics I am interested</summary>
-  
-<!-- favorites_manga starts -->
-<!-- favorites_manga ends -->
-<br><br>
-![Photography](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=blue)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-</details>
+
  
   
 <h3 align="left">Connect with me:</h3>
